@@ -1,0 +1,15 @@
+{
+  "name": "discordbot-template",
+  "main": "index.js",
+  "author": "Dacchi",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "discord.js": "latest"
+  }
+}
